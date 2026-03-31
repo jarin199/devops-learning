@@ -19,3 +19,9 @@ learning notes, scripts, experiments
 - AWS
 - Kubernetes
 - CI/CD pipelines
+- 
+## Projects
+
+- CI/CD pipeline using GitHub Actions (in progress)
+- Terraform infrastructure provisioning (in progress)
+- Dockerized application deployment (planned)
